@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "94653838024",
+    "project_id": "flutter-chat-app-vikas",
+    "storage_bucket": "flutter-chat-app-vikas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94653838024:android:de37f475b31dc8d3376bfd",
+        "android_client_info": {
+          "package_name": "com.example.flutter_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtAimGVFGNTv-2Q82-vg_DNSB5WY7nTXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
